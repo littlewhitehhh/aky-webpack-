@@ -1,0 +1,145 @@
+@font-face {
+    font-family: "iconfont";
+    /* Project id 2910246 */
+    src: url("//at.alicdn.com/t/font_2910246_18vqb4o80di.woff2?t=1646709227619") format("woff2"), url("//at.alicdn.com/t/font_2910246_18vqb4o80di.woff?t=1646709227619") format("woff"), url("//at.alicdn.com/t/font_2910246_18vqb4o80di.ttf?t=1646709227619") format("truetype");
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a-5-xinxi:before {
+    content: "\e8ce";
+}
+
+.icon-a-3-shouye:before {
+    content: "\e8cf";
+}
+
+.icon-a-4-shezhi:before {
+    content: "\e8d0";
+}
+
+.icon-a-6-didian:before {
+    content: "\e8d1";
+}
+
+.icon-a-7-pinpai:before {
+    content: "\e8d2";
+}
+
+.icon-a-9-zuo:before {
+    content: "\e8d3";
+}
+
+.icon-a-11-shang:before {
+    content: "\e8d4";
+}
+
+.icon-a-8-wode:before {
+    content: "\e8d5";
+}
+
+.icon-xiangshang:before {
+    content: "\e636";
+}
+
+.icon-shangyishou:before {
+    content: "\e600";
+}
+
+.icon-kuaijin:before {
+    content: "\e601";
+}
+
+.icon-zanting:before {
+    content: "\e638";
+}
+
+.icon-weibiaoti518:before {
+    content: "\e615";
+}
+
+.icon-danquxunhuan:before {
+    content: "\e66d";
+}
+
+.icon-xunhuan:before {
+    content: "\e623";
+}
+
+.icon-shengyinkai:before {
+    content: "\eca6";
+}
+
+.icon-24gl-shuffle:before {
+    content: "\ea75";
+}
+
+.icon-bofangliebiao:before {
+    content: "\e696";
+}
+
+.icon-bofangduilie:before {
+    content: "\e699";
+}
+
+.icon-xihuan:before {
+    content: "\e86f";
+}
+
+.icon-bofang:before {
+    content: "\e87c";
+}
+
+.icon-crown:before {
+    content: "\e777";
+}
+
+.icon-diepian:before {
+    content: "\e76c";
+}
+
+.icon-like:before {
+    content: "\e69c";
+}
+
+.icon-computer:before {
+    content: "\e762";
+}
+
+.icon-cloud-download:before {
+    content: "\e7d9";
+}
+
+.icon-zuijinliulan:before {
+    content: "\e62f";
+}
+
+.icon-recommend:before {
+    content: "\e728";
+}
+
+.icon-erji:before {
+    content: "\e6bf";
+}
+
+.icon-video:before {
+    content: "\e820";
+}
+
+.icon-vip:before {
+    content: "\e773";
+}
+
+.icon-fire:before {
+    content: "\e842";
+}
+
+.icon-github:before {
+    content: "\e645";
+}

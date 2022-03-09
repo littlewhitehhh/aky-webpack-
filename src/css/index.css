@@ -1,0 +1,35 @@
+body {
+  background-color: red;
+}
+body #root {
+  background-image: url("../image//404notfound.png");
+}
+body #container {
+  padding-left: 200px;
+  padding-right: 150px;
+  overflow: auto;
+}
+body #container p {
+  float: left;
+}
+body #container .center {
+  width: 100%;
+  background-color: lightcoral;
+}
+body #container .left {
+  width: 200px;
+  position: relative;
+  left: -200px;
+  margin-left: -100%;
+  background-color: lightcyan;
+}
+body #container .right {
+  width: 150px;
+  margin-right: -150px;
+  background-color: lightgreen;
+}
+body #container .clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
